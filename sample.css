@@ -1,0 +1,16 @@
+body {
+    background-color: #003CA0;
+}
+.text-center{
+    align-items: center;
+}
+.form-control{
+    align-items: center;
+}
+.btn{
+    background-color: antiquewhite;
+    align-items: center;
+}
+.output{
+    align-items: center;
+}
